@@ -4,7 +4,7 @@ In this repository we present our work: "Weather-aware Multi-granularity Represe
 
 [Paper](Coming-Soon) | [Weights](Coming-Soon)
 
-![](images\WMGR_Net.png)
+![](images/WMGR_Net.png)
 *WMGR-Net Architecture*
 
 > This work targets robust cross-view geo-localization where ground-view images are matched to aerial or satellite imagery under complex weather and appearance changes. We propose a weather-aware multi-granularity framework that jointly learns:
