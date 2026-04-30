@@ -5,7 +5,8 @@ In this repository we present our work: "Weather-aware Multi-granularity Represe
 [Paper](Coming-Soon) | [Weights](Coming-Soon)
 
 ![](images/WMGR_Net.png)
-*WMGR-Net Architecture*
+*WMGR-Net Architecture* 
+The proposed components include Weather Domain Augmentation(WDA), Parallel Multi-Receptive Field(PMRF), Axial Context Attention(ACA),and Latent Category Aggregation(LCA). GAP and LP denote Global Average Pooling and Linear Projection, respectively.
 
 > This work targets robust cross-view geo-localization where ground-view images are matched to aerial or satellite imagery under complex weather and appearance changes. We propose a weather-aware multi-granularity framework that jointly learns:
 > 
